@@ -20,7 +20,7 @@ git clone https://github.com/avishek-r-kumar/PCA_example.git
 ### Enter the directory and install virtual env
 ```
 cd PCA_example
-pip install virtualenv --user
+pip install --user virtualenv
 export PATH=~/.local/bin:$PATH
 virtualenv venv --no-site-packages
 source ./venv/bin/activate
