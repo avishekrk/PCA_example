@@ -4,7 +4,7 @@
 
 SSH into Saguaro
 ```
-ssh -L 444444:localhost:44444 <asurite>@saguaro.fulton.asu.edu
+ssh -L 44444:localhost:44444 <asurite>@saguaro.fulton.asu.edu
 ```
 
 ### Load Python
