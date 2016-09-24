@@ -23,6 +23,10 @@ cd PCA_example
 pip install --user virtualenv
 export PATH=~/.local/bin:$PATH
 virtualenv venv --no-site-packages
+```
+
+### Activate the virtual environment and install dependencies
+```
 source ./venv/bin/activate
 pip install -r requirements.txt
 ```
